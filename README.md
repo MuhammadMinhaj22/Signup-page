@@ -2,15 +2,15 @@ Signup Page
 A simple and clean signup page using HTML & CSS.
 
 Features
-Username, Email, Password, Date of Birth fields
+1. Username, Email, Password, Date of Birth fields
 
-Popup on form submission
+2. Popup on form submission
 
-Responsive and modern design
+3. Responsive and modern design
 
 How to Use
-Open index.html in your browser
+1. Open Sign-up.html in your browser
 
-Fill the form and submit
+2. Fill the form and submit
 
-See the popup message
+3. See the popup message
